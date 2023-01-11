@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## Welcome to Milli's Spiffy Site!
 
 
 #### Here are some example pages:
 
-- [Markdown](02-markdown-examples)
+- [What's a Markdown](02-markdown-examples)
 - [Images](03-images-examples)
 - [Embeds](04-embeds-examples)
