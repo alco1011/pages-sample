@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
 ## Welcome to Milli's Spiffy Site!
-
+what happens if I type here
 
 #### Here are some example pages:
 
